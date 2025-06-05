@@ -1,10 +1,4 @@
 ## Hi there 👋
-
-<!--
-**XxXDOCxHAWKXxX/XxXDOCxHAWKXxX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Learning the ropes to GitHub, writing in Markdown and developing in general!  🔰
 - 🌱 I’m currently learning the introduction and fundementals. 🤓
 - 👯 I’m looking to collaborate on a small, easy project to get my feet wet and see what work here can culminate to. 🤷‍♂️
@@ -13,4 +7,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Dont, I'll call YOU. 🤫
 - 😄 Pronouns: No thank you. 🤙
 - ⚡ Fun fact: The idea that people eat an average of 8 spiders a year in their sleep was actually a study on the eficacy and spread of misinformation.
--->
