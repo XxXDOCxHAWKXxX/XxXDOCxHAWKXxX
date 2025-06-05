@@ -1,7 +1,11 @@
 # First A Headline
+
 <br>
+
 ---
+
 ## Add a little spacein, and a sub-title for an introduction.
+
 | Maybe | We try |  Some  |  Mono  | Spacing |
 |--------|--------|--------|--------|--------|
 | We can| use it| to make | a quick | table |
@@ -22,8 +26,8 @@
 * A list of **THINGS** can help us stay organized.
   * Creating sublists is a fun way
     * To get detailed
-    *  information in a
-    *   compact and reader friendly way.
+    * information in a
+    * compact and reader friendly way.
   * But it can be easy for
     * To lose my "Count" of
     * The spaces i use to make
@@ -36,12 +40,11 @@
     * today
 
 ---
-> | Hopefully the horizontal space limiter will work on these stupid long single message, |
-> | and i hope even more that it will apply to the quote box im putting here just under a |
-> | line break because it should help seperate information and create negative space on   |
-> | the page, helping the reader avoid staring at a wall of dense text, and, in my opinion|
-> | it looks much nicer.                                                                  |
-
+>
+>  Hopefully the horizontal space limiter will work on these stupid long single message, 
+>  and i hope even more that it will apply to the quote box im putting here just under a 
+>  line break because it should help seperate information and create negative space on   
+>  the page, helping the reader avoid staring at a wall of dense text, and, in my opinion
+>  it looks much nicer.                                                                  
+<
 ## Let's *Test* **This** ***Bitch*** out!
-
-
